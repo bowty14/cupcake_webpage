@@ -1,5 +1,31 @@
 .flashy {
     color: red;
-    font-family:italic;
-{
-  
+    font-style:italic;
+}
+
+.best {
+    color: blue;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+#chococup {
+    width: 40%;
+    float: center;
+
+}
+
+#oreo {
+    width: 35%;
+    float: center;
+}
+
+#sparklecup {
+    width: 40%;
+    float: center;
+}
+
+body {
+    background-color: lightgrey;
+}
